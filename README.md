@@ -26,12 +26,6 @@ It demonstrates my ability to combine **data analytics, financial forecasting, a
 - **Exit Enterprise Value**: ~RM 13.1 billion  
 - **Equity IRR**: ~19%  
 
-## 📂 Project Files
-- `mrdiy_forecast.csv` → 5-year revenue & EBITDA forecast  
-- `mrdiy_valuation.csv` → Entry/exit valuation & IRR results  
-- `mrdiy_forecast_model.xlsx` → Excel model with Forecast & Valuation sheets  
-- `memo.pdf` → 1-page professional investment memo  
-
 ##  Tools Used
 - **Python** (Pandas, NumPy, NumPy-Financial)
 - 
