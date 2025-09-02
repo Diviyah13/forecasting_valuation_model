@@ -1,5 +1,4 @@
-# forecasting_valuation_model
-Built a 5-year financial forecast and valuation model for MR D.I.Y. using Python, Excel, and financial modeling principles.
+
 # MR D.I.Y. Financial Forecast & Private Equity Case Study
 
 This project is a **mini investment case study** applying private equity–style financial modeling to MR D.I.Y. (Malaysia’s largest home improvement retailer).  
