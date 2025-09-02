@@ -28,8 +28,8 @@ It demonstrates my ability to combine **data analytics, financial forecasting, a
 
 ##  Tools Used
 - **Python** (Pandas, NumPy, NumPy-Financial)
-- 
-## 📌 Learning Notes
+  
+##  Learning Notes
 This project was inspired by the transition from **data analytics → investment/PE analysis**, showcasing how Python can be applied to financial modeling, not just pure data science.  
 
 ## 👤 Author
