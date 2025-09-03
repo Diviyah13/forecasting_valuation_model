@@ -10,7 +10,6 @@ It demonstrates my ability to combine **data analytics, financial forecasting, a
   1. Built a **5-year revenue & EBITDA forecast** using growth rate assumptions.  
   2. Applied **entry & exit multiples** to estimate Enterprise Value (EV).  
   3. Calculated **equity returns (IRR)** based on leverage structure.  
-  4. Summarized results in **Excel + charts** and a **professional-style investment memo**
 
 ## Key Parameters
 - Starting Revenue (2025): RM 4,780 million  
